@@ -559,3 +559,6 @@ h2.widget-title {
 @media screen and (max-width:1190px) {
 	span.img-caption { display: none !important;}
 }
+
+/** Custom CSS Style 4-5-16 **/
+.testMod { color: #fa0404}
