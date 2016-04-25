@@ -1,0 +1,15 @@
+/*
+Theme Name: The Hub
+Theme URI: http://hubatgct.com
+Description: The Hub @ GCT.
+Author: ESB
+Author URI: http://hubatgct.com
+Version: 1.4
+Template: flat-bootstrap
+Template Version: 1.8
+
+*/
+
+/* IMPORT the parent theme's stylesheet(s) */
+@import url("../flat-bootstrap/style.css");
+
